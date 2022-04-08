@@ -6,7 +6,7 @@ You are lucky enough to find an angel investor who will consider seed money for 
 
 ## Presentation
 
-The resulting presentation that you and Kate built can be viewed here: <a src="https://public.tableau.com/views/NYCCitibikeChallenge_16493748405910/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">Citi Bike</a>
+The resulting presentation that you and Kate built can be viewed here: <a href="https://public.tableau.com/views/NYCCitibikeChallenge_16493748405910/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">Citi Bike</a>
 
 ## Results
 
